@@ -22,3 +22,5 @@ def raiz_quadrada(a):
     if a < 0:
         raise ValueError('Não existe raiz quadrada de número negativo')
     return math.sqrt(a)
+
+# TODO: Adicionar função de divisão inteira
