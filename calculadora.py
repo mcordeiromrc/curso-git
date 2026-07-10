@@ -1,3 +1,4 @@
+# Calculadora com operações básicas, potência e raiz quadrada
 import math
 
 def somar(a, b):
